@@ -16,3 +16,7 @@ Project 05 Servo Motor
 Project 06 Piezo
 Project 07 Keyboard
 Project 08 Hourglass
+Project 09 Motorized Pin Wheel
+Project 10 ZoeTrope
+Project 11 CristalBall
+Project 12 KnockLock
