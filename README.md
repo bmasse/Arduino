@@ -1,1 +1,1 @@
-Répertoire des projets dévelloper sur la plate-forme Arduino.
+Répertoire des projets développer sur la plate-forme Arduino.
