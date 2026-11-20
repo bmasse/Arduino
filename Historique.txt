@@ -2,7 +2,7 @@ Création du répertoire Arduino sur git.
 Date: 2026 08 09
 
 But:
-Sauvegarder les projets reliés au développés pour la plate-forme Arduino.
+Sauvegarder les projets reliés à la plate-forme Arduino.
 
 Premier projets
 Le livre Arduino Projects Book contient quinze projets.
